@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8183949f0ab7d658",
+    "type": "split",
+    "children": [
+      {
+        "id": "51457cf34881d87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a603c8947030011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gallery_dump_report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gallery_dump_report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b79ba37dfaa2e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f14384dbd6f3caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4b701d6e93931a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ecebc416ad791045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nuc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d240c18c98ad8691",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7eea068754e2f4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f86207ee062ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e382c55d56ecbd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gallery_dump_report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gallery_dump_report"
+            }
+          },
+          {
+            "id": "31990767a02fa6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gallery_dump_report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gallery_dump_report"
+            }
+          },
+          {
+            "id": "a0661ce4a3811fd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7df1114f2d106cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gallery_dump_report.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gallery_dump_report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a603c8947030011",
+  "lastOpenFiles": [
+    "2-enum/web/web_mini_report.md",
+    "2-enum/web/gob_dir_2.3_med.md",
+    "Gallery_dump_report.md",
+    "2-enum/2-enum_mini_report.md",
+    "2-enum/web/gob_dir_big.md",
+    "1-recon/1-recon_mini_report.md",
+    "3-xp/3-xp_mini_report.md",
+    "Gallery_proofs.md",
+    "4-privesc/4-privesc_mini_report.md",
+    "4-privesc/mike_persis.rsa.pub",
+    "4-privesc/mike_persis.rsa",
+    "4-privesc/gallery-initialize.php",
+    "Generated_Commands/2 - Recon/sedv9J7uQ",
+    "Generated_Commands/5 - System and Petty/sede8gaXG",
+    "Generated_Commands/5 - System and Petty/sed9AiUZQ",
+    "Generated_Commands/5 - System and Petty/sed3Zxv7h",
+    "Generated_Commands/5 - System and Petty/sediU1Fbt",
+    "Generated_Commands/5 - System and Petty/sedrBNPX1",
+    "Generated_Commands/3 - Enum/sedrD99jn",
+    "8-screenshots/phpbashworking.png",
+    "8-screenshots/malavatar.png",
+    "8-screenshots/admin_acc.png",
+    "8-screenshots/admin_info.png",
+    "8-screenshots/suclogin.png",
+    "5-misc-tools/nuclei/vulnerabilities_80.md",
+    "5-misc-tools/nuclei/token-spray_80.md",
+    "5-misc-tools/nuclei/technologies_80.md",
+    "5-misc-tools/nuclei/takeovers_80.md",
+    "5-misc-tools/nuclei/osint_80.md",
+    "5-misc-tools/nuclei/misconfiguration_80.md",
+    "5-misc-tools/nuclei/miscellaneous_80.md",
+    "5-misc-tools/nuclei/iot_80.md",
+    "5-misc-tools/nuclei/honeypot_80.md",
+    "5-misc-tools/nuclei/fuzzing_80.md",
+    "5-misc-tools/nuclei/exposures_80.md",
+    "5-misc-tools/nuclei/exposed-panels_80.md",
+    "5-misc-tools/nuclei/default-logins_80.md",
+    "5-misc-tools/nuclei/vulnerabilities_8080.md",
+    "5-misc-tools/nuclei/token-spray_8080.md",
+    "5-misc-tools/nuclei/cves_80.md",
+    "5-misc-tools/nuclei/technologies_8080.md",
+    "8-screenshots/gallery-login.png"
+  ]
+}
