@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "716d454b63949295",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14cfcdab5f7712a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b26a8822dd952d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BountyHunter_dump_report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BountyHunter_dump_report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4784b1c7bc32cf4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9bf22bb688955e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1af34ed219ce5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "441cab0b00179fc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b6abe73a20410fa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39a2a818e7e5a004",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61728649baf15db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0396a46a4e3cd74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BountyHunter_dump_report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BountyHunter_dump_report"
+            }
+          },
+          {
+            "id": "3252ce80198ac0cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BountyHunter_dump_report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BountyHunter_dump_report"
+            }
+          },
+          {
+            "id": "b30d9dcf3930b7dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c53c3d9351bad16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BountyHunter_dump_report.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BountyHunter_dump_report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b26a8822dd952d3",
+  "lastOpenFiles": []
+}
