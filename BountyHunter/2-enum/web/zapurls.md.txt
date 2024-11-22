@@ -1,0 +1,13 @@
+http://10.10.188.195
+http://10.10.188.195/
+http://10.10.188.195/favicon.ico
+http://10.10.188.195/icons
+http://10.10.188.195/icons/back.gif
+http://10.10.188.195/icons/blank.gif
+http://10.10.188.195/icons/image2.gif
+http://10.10.188.195/images
+http://10.10.188.195/images/
+http://10.10.188.195/images/?C=D;O=D
+http://10.10.188.195/images/crew.jpg
+http://10.10.188.195/robots.txt
+http://10.10.188.195/sitemap.xml
