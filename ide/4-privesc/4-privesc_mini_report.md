@@ -158,7 +158,7 @@ WantedBy=multi-user.target
 new service
 
 ```
-nano 
+nano /lib/systemd/system/vsftpd.service
 ```
 
 ```
